@@ -1,6 +1,6 @@
 body{
     font-family: 'Amatic SC', sans-serif;
-    background: #000 url(/images/background-fire.jpg) no-repeat;
+    background: #000 url(./images/background-fire.jpg) no-repeat;
     background-size: cover;
     width: 100%;
     color: #8b0000;
